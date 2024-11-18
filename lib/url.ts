@@ -1,5 +1,9 @@
 import { NextRouter } from 'next/router'
 
+const routers = [
+  "asdkvjkasjdkfjaksjvasdlfqweiwlvnwefaldfadf"
+]
+
 function toggleOnAttribute(
   router: NextRouter,
   attribute: string,
